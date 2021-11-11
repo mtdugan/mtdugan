@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Dugan. 
-- 👀 I’m interested in cellular automata, data analysis, robotics, and machine learning. 
+- 👀 I’m interested in cellular automata, data analysis, robotics, crypto currency, and machine learning. 
 - 🌱 I’m currently learning python and robotics
 - 📫 How to reach me: dugan.183@osu.edu
 
