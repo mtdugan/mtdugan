@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Dugan. 
 - 👀 I’m interested in data analysis, space, computer architecture, robotics, cryptocurrency, cybersecurity, and machine learning.
-- 🌱 I’m currently learning python, computer archetecture and design, cybersecurity, and robotics
+- 🌱 I’m currently learning python, cybersecurity, and robotics
 - 📫 How to reach me: dugan.183@osu.edu
 
 <!---
