@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Dugan. 
-- 👀 I’m interested in space, computer architecture, robotics, cryptocurrency, and game development.
+- 👀 I’m interested in space, computer architecture, LBPF, cryptocurrency, and game development.
 - 🌱 I’m currently learning Godot
 - 📫 How to reach me: mtdugan@protonmail.com
 
